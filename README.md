@@ -3,9 +3,11 @@
 Full-stack developer currently in Bangkok, Thailand.  
 I build web and mobile applications end-to-end — from REST APIs and databases to React frontends and Flutter mobile apps.
 
+### 📧 Contact - zwelapyae.h4rry@gmail.com | h4.ufovndm3.z1p@gmail.com
+
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 **Languages**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -43,9 +45,3 @@ I build web and mobile applications end-to-end — from REST APIs and databases 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
----
-
-## Contact
-zwelapyae.h4rry@gmail.com
-h4.ufovndm3.z1p@gmail.com
