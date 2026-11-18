@@ -3,7 +3,7 @@
 Full-stack developer currently in Bangkok, Thailand.  
 I build web and mobile applications end-to-end — from REST APIs and databases to React frontends and Flutter mobile apps.
 
-### 📧 Contact - zwelapyae.h4rry@gmail.com | h4.ufovndm3.z1p@gmail.com
+### 📧 Contact - zwelapyae.dev@gmail.com
 
 ---
 
